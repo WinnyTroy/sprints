@@ -1,0 +1,8 @@
+section {
+    float: left;
+    background-color: black;
+}
+aside {
+    float: right;
+    background-color: brown;
+}
